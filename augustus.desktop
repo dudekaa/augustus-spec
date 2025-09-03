@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Augustus
+Comment=An open source improved re-implementation of Caesar III
+# Icon=julius
+Categories=Game;StrategyGame;
+TryExec=augustus
+Exec=augustus
+Terminal=false
+
